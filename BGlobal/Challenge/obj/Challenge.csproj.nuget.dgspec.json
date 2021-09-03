@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\Challenge\\Challenge.csproj": {}
+    "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\challenge\\Challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\Challenge\\Challenge.csproj": {
+    "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\challenge\\Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\Challenge\\Challenge.csproj",
+        "projectUniqueName": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\challenge\\Challenge.csproj",
         "projectName": "Challenge",
-        "projectPath": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\Challenge\\Challenge.csproj",
+        "projectPath": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\challenge\\Challenge.csproj",
         "packagesPath": "C:\\Users\\Hatake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\Challenge\\obj\\",
+        "outputPath": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\challenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hatake\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -15,6 +15,6 @@ namespace Challenge.Data
         }
 
         //Vehiculos
-        public DbSet<Vehiculo> Vehiculos;
+        public DbSet<Vehiculo> Vehiculos { get; set; }
     }
 }
