@@ -157,3 +157,8 @@ C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\challenge\o
 C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\challenge\obj\Debug\net5.0\ref\Challenge.dll
 C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\challenge\obj\Debug\net5.0\Challenge.pdb
 C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\challenge\obj\Debug\net5.0\Challenge.genruntimeconfig.cache
+C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\Challenge\obj\Debug\net5.0\Razor\Views\Vehiculos\Create.cshtml.g.cs
+C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\Challenge\obj\Debug\net5.0\Razor\Views\Vehiculos\Delete.cshtml.g.cs
+C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\Challenge\obj\Debug\net5.0\Razor\Views\Vehiculos\Details.cshtml.g.cs
+C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\Challenge\obj\Debug\net5.0\Razor\Views\Vehiculos\Edit.cshtml.g.cs
+C:\Users\Hatake\Downloads\000 Proyectos para GIT\ChallengeBG\BGlobal\Challenge\obj\Debug\net5.0\Razor\Views\Vehiculos\Index.cshtml.g.cs

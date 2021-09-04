@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ue74ixpAmfnwCZOb2ju2djtpX5O/aA2prvSc8lBUq1xbCyfOlgpQapxnw3SqCgdkj3LDzsyNgElxhnbPf0qniQ==",
+  "dgSpecHash": "8hiojvm8iwQ0bTrC84cbKlrN9dRP2CwjI7j5QMhOSaRBBabhPi0R0m7Tp0ULxdBZ5uWPLTCqOSeEOP60PVoehw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\challenge\\Challenge.csproj",
+  "projectFilePath": "C:\\Users\\Hatake\\Downloads\\000 Proyectos para GIT\\ChallengeBG\\BGlobal\\Challenge\\Challenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hatake\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
@@ -29,8 +29,8 @@
     "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
     "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.9\\microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
     "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.9\\microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
-    "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.9\\microsoft.entityframeworkcore.sqlserver.5.0.9.nupkg.sha512",
-    "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.5\\microsoft.entityframeworkcore.tools.5.0.5.nupkg.sha512",
+    "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.8\\microsoft.entityframeworkcore.sqlserver.5.0.8.nupkg.sha512",
+    "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.8\\microsoft.entityframeworkcore.tools.5.0.8.nupkg.sha512",
     "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Hatake\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
